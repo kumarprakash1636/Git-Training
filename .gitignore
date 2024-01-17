@@ -1,0 +1,7 @@
+file1?.txt
+file2?.txt
+file3?.txt
+!file35.txt
+
+
+#ignoring file2.txt without mentioning it to this file.
