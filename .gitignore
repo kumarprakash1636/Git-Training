@@ -1,7 +1,6 @@
-**/folder1/file1?.txt
-**/folder2/file2?.txt
-**/folder3/file3?.txt
-!file35.txt
+**/folder1/file1[134].txt
+**/folder2/file2[1234].txt
+**/folder3/file3[1234].txt
 
 
 #ignoring file2.txt without mentioning it to this file.
